@@ -60,7 +60,7 @@
 </script>
 
 {if $use_backward_compatible_checkout}
-    {include file="$tpl_dir../../modules/pigmbhpaymill/views/templates/front/paymill_checkout_form_1_5.tpl"}
+    {include file="./paymill_checkout_form_1_5.tpl"}
 {else}
-    {include file="$tpl_dir../../modules/pigmbhpaymill/views/templates/front/paymill_checkout_form_1_6.tpl"}
+    {include file="./paymill_checkout_form_1_6.tpl"}
 {/if}
