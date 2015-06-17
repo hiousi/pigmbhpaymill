@@ -15,7 +15,7 @@ PAYMILL extension for Prestashop compatible with: 1.5+ (tested for 1.5.5.0) and 
 
 Download the complete module by using the link below:
 
-[Latest Version](https://github.com/paymill/paymill-prestashop-1.5/archive/master.zip)
+[Latest Version](https://github.com/PrestaShop/pigmbhpaymill/archive/master.zip)
 
 - Unzip the downloaded zip-file
 - Rename the folder to `pigmbhpaymill`
